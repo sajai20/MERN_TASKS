@@ -1,0 +1,91 @@
+{
+    "basics": {
+        "name": "sajaikumar rajendran",
+        "email": "jajii20598@gmail.com",
+        "phone": "6380948976",
+        "degree": "BE",
+        "summary": "Looking for an entry-level position in c++ domain where I can utilize my extensive knowledge about the area gained during my BE degree. Well versed with market research and excellence in creating brand awareness strategies. Proficient in English language skills to convince potential customers and clients.",
+        "location": {
+            "address": "12 mahadevapuram 4th street",
+            "postalCode": "641305",
+            "city": "coimbatore",
+        },
+        "profiles": [
+            {
+                "network": "linkedin",
+                "username": "sajairahendra",
+                "url": "https://www.google.com/search?q=linkedin&oq=linkedin&aqs=chrome..69i57j46i131i199i433i465i512j0i131i433i512j46i131i199i433i465i512j0i131i433i457i512j0i402l2j0i131i433i512l2.4551j0j7&sourceid=chrome&ie=UTF-8"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Plintron",
+            "position": "c++ developer",
+            "startDate": "2021-03-15",
+            "endDate": "2022-05-20",
+            "summary": "Strong in design and integration with intuitive problem-solving skills. Proficient in JAVA, C#, PYTHON, JAVASCRIPT, and SQL. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions.",
+            "highlights": [
+                "As a fresher i have completed 3 majore projects"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Park College of Engineering and Technology",
+            "area": "ENGINEERING",
+            "studyType": "UG",
+            "startDate": "2015-07-20",
+            "endDate": "2019-05-29",
+            "gpa": "6.6",
+            "courses": [
+                "EMBEDDED SOFTWARE"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "HACKATHON",
+            "date": "2017-06-15",
+            "awarder": "HACKATHON",
+            "summary": "For attending workshop at hackthon"
+        }
+    ],
+    "publications": [
+        {
+            "name": "",
+            "publisher": "",
+            "releaseDate": "",
+            "website": "",
+            "summary": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "c,c++,javascript,html,css",
+            "level": "good level"
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "very good"
+        },
+        {
+            "language": "Tamil",
+            "fluency": "very good"
+        },
+        {
+            "language": "kannadam",
+            "fluency": "good"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Sports",
+            "keywords": [
+                "Cricket"
+            ]
+        }
+    ]
+}
